@@ -1,0 +1,8 @@
+contracts_stack
+.github
+.history
+.idea
+.openzeppelin
+artifacts
+cache
+node_modules
